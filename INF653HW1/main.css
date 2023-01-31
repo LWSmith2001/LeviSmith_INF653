@@ -1,0 +1,35 @@
+.bodycontent {
+	background-color: white;
+	margin: auto;
+	width: 55%;
+
+}
+
+label {
+	position: absolute;
+	margin: 3px;
+	left: 25%;
+}
+
+input {
+	position: absolute;
+	margin: 3px;
+	right: 25%;
+}
+
+.footercontent {
+	padding: 10px;
+	position: fixed;
+	bottom: 0;
+	right: 0;
+	background-color: #D3C4D1;
+}
+
+body {
+	text-align: center;
+	background-color: #56CBF9;
+}
+
+footer {
+	text-align: right;
+}
