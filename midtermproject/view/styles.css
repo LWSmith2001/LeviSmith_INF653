@@ -1,0 +1,30 @@
+table {
+    border-collapse: collapse;
+    background-color: rgb(231, 231, 231);
+}
+
+th {
+    border: 2px black solid;
+    padding: 3px;
+    padding-left: 7px;
+    padding-right: 7px;
+    background-color: lightgray;
+}
+
+td {
+    border: 1px black solid;
+    padding: 2px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+button {
+    background-color: lightblue;
+    border-radius: 10px;
+    font-size: 15px;
+}
+
+select {
+    width: 25%;
+    background-color: rgb(223, 241, 248);
+}
