@@ -1,0 +1,32 @@
+04-06-2023	12:51:44 55e8983e-950f-4bc9-a5c4-1ef311d2c7f3		Server Created on port: 3001
+04-06-2023	12:51:57 d3476085-24a3-4c4b-bf07-36db9671795a		File Served: /
+04-06-2023	12:51:58 c5c8d484-8301-492b-b390-b0299c917c4a		File Served: /public/css/style.css
+04-06-2023	12:51:58 f62b243b-9d54-427b-913d-a1a74a1a395e		File Served: /public/img/frog.jpg
+04-06-2023	12:51:59 66466ecc-a2d1-4594-a936-c6976b3d86b6		File Served: /favicon.ico
+04-06-2023	12:52:10 1442fb8d-95a2-4dbc-84cf-f1ff08593d79		File Served: /public/img/frog.jpg
+04-06-2023	12:52:12 f4427ed3-f7fa-4bcb-9959-7283b4c1fbd7		File Served: /favicon.ico
+04-06-2023	12:56:19 bd5d2511-8085-42c8-82ae-71d34dffb532		Server Created on port: 3001
+04-06-2023	12:56:29 4b81a219-6db6-4dd3-ac42-93542374c54b		File Served: /exists.html
+04-06-2023	12:56:30 dacc26a6-4fc4-441d-ab37-de57f49e48f0		File Served: /favicon.ico
+04-06-2023	12:57:44 1ac725b5-828b-4ba7-9a62-612d6f31f073		Server Created on port: 3001
+04-06-2023	12:57:46 00c280f0-2b3c-48d8-b888-d1b7b11a1ee5		File Served: /exists.html
+04-06-2023	12:57:46 675d684a-44d3-4ec1-ace1-1f20df54e197		Redirected to 404 from file path: /home/lwsmith2001/Desktop/NodeJSServerAssignment/exists.html
+04-06-2023	12:58:08 87d774e5-5572-4ce3-9aec-d707a7fe780d		File Served: /
+04-06-2023	12:58:08 76221bd1-f8fe-402e-8939-9f43c4e03bec		File Served: /public/css/style.css
+04-06-2023	12:58:08 5d018b36-33cc-4d25-8327-6ef36e3af954		File Served: /public/img/frog.jpg
+04-06-2023	12:58:36 08767504-90b6-4c67-a632-f8c97a5f261b		File Served: /
+04-06-2023	12:58:36 332cd6a3-d3e9-421e-aecf-c333cac6cf37		File Served: /public/css/style.css
+04-06-2023	12:58:36 62fa0c2c-98ad-40e3-8177-ac8694dd3c46		File Served: /public/img/frog.jpg
+04-06-2023	12:59:20 6dc3768c-4144-43c1-857f-7d98dce8231a		Server Created on port: 3001
+04-06-2023	12:59:23 e291c4c3-2800-4e62-8b51-52b2cffa8baa		File Served: /
+04-06-2023	12:59:23 7a14a246-b13c-48d0-87b2-bc6e806d59c9		File Served: /public/css/style.css
+04-06-2023	12:59:23 23d91898-802e-4189-bbbd-81a3c1ebe7cb		File Served: /public/img/frog.jpg
+04-06-2023	12:59:35 e526a881-c4da-4f15-b6a3-33e183d4e669		File Served: /
+04-06-2023	12:59:35 29f394a0-a1cd-4ce3-b634-f8a9bf29eff8		File Served: /public/css/style.css
+04-06-2023	12:59:35 a8daf47b-da90-458f-8a45-4b740a89d489		File Served: /public/img/frog.jpg
+04-06-2023	01:00:02 2c9175fc-49f7-4bb7-a72b-31532b4c946b		File Served: /404.html
+04-06-2023	01:04:54 81119e72-1590-48f8-81c9-d1ccba909bac		Server Created on port: 3000
+04-06-2023	01:05:06 2f8d213e-7898-45c1-abb4-71a477e8624e		File Served: /
+04-06-2023	01:05:06 e34928e4-17b7-49a1-aa25-6a723eb3cb68		File Served: /public/img/frog.jpg
+04-06-2023	01:05:06 016d062e-48e4-420c-849b-81a8d734251c		File Served: /public/css/style.css
+04-06-2023	01:05:24 87514681-1309-4c92-8fff-4c7c3417304f		File Served: /public/img/frog.jpg
